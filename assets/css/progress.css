@@ -1,0 +1,10 @@
+.form {
+    width: 500px;
+    height: 300px
+}
+.form {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
